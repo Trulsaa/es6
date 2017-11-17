@@ -1,0 +1,13 @@
+{
+  "libs": [
+    "ecmascript"
+  ],
+  "ecmaVersion": 6,
+  "compilerOptions": {
+    "target": "ES6"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
+

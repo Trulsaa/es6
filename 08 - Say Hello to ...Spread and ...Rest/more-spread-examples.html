@@ -33,7 +33,7 @@
   const commentIndex = comments.findIndex(comment => comment.id === id);
 
   const newComments = [...comments.slice(0,commentIndex), ...comments.slice(commentIndex + 1)];
-  console.log(newComments);
+  console.table(newComments);
 
 </script>
 </body>

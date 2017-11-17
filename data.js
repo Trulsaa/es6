@@ -38,14 +38,15 @@ const pizzas = ['Deep Dish', 'Peperoni', 'Hawaiian', 'Meatzza', 'Spicy Mama', 'M
   Cuts of Beef
 */
 
+
 /* eslint-disable max-len */
 const cuts = ['Chuck', 'Brisket', 'Shank', 'Rib', 'Plate', 'Flank', 'Short Loin', 'Tenderloin', 'Sirloin', 'Round'];
 /* eslint-enable max-len */
 
-
+ 
 const inventory = {
   shoes: 10,
   socks: 6,
   shirts: 10,
   pants: 5,
-}
+};
